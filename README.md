@@ -7,3 +7,8 @@ to be enhanced and improved
 
 The link to the app
 https://iotdevicemanagementwebapp20220929134608.azurewebsites.net
+
+## The Reference list
+[Reference list Project 3.pdf](https://github.com/BlackG2/CMPG-323-PROJECT-3-WEB-APP-34525718/files/9674922/Reference.list.Project.3.pdf)
+
+
